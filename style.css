@@ -1,0 +1,16 @@
+h1{
+    font-size: 45px;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc9y430Vt0Et_Pu2eskpEH1MHVUaI4KSmMN32XO2ttnCDypsOlroV5ZH_CjVunUpzB90E&usqp=CAU");
+    background-position: center;
+    background-size: cover;
+}
+.heading{
+    border-radius: 20px;
+    width: 50%;
+    font-size: 35px;
+    padding: 5px;
+}
